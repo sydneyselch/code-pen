@@ -1,3 +1,5 @@
+var window = ('body');
+
 // Sticky Header
 $(window).scroll(function() {
 
